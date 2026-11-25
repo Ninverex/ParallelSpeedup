@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="ParallelSpeedup.Bench/ParallelSpeedup.Bench.csproj" />
+  <Project Path="ParallelSpeedup.Core/ParallelSpeedup.Core.csproj" />
+  <Project Path="ParallelSpeedup.Tests/ParallelSpeedup.Tests.csproj" />
+</Solution>
