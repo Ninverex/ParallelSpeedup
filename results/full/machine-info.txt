@@ -1,0 +1,124 @@
+﻿Started UTC: 2026-11-27T18:04:55.8576072Z
+Seed: 42
+CPU:
+
+
+Name                      : AMD Ryzen 7 8845HS w/ Radeon 780M Graphics
+NumberOfCores             : 8
+NumberOfLogicalProcessors : 16
+L2CacheSize               : 8192
+L3CacheSize               : 16384
+
+
+
+
+RAM:
+
+
+TotalPhysicalMemory : 33566547968
+
+
+
+
+OS:
+
+
+Caption     : Microsoft Windows 11 Pro
+Version     : 10.0.26300
+BuildNumber : 26300
+
+
+
+
+Power plan:
+Power Scheme GUID: 381b4222-f694-41f0-9685-ff5bb260df2e  (Zrównoważony)
+
+.NET:
+.NET SDK:
+ Version:           10.0.401
+ Commit:            e34a38d2ae
+ Workload version:  10.0.400-manifests.63b36e85
+ MSBuild version:   18.9.11+e34a38d2a
+
+Środowisko uruchomieniowe:
+ OS Name:     Windows
+ OS Version:  10.0.26300
+ OS Platform: Windows
+ RID:         win-x64
+ Base Path:   C:\Program Files\dotnet\sdk\10.0.401\
+
+Zainstalowane obciążenia platformy .NET:
+ [maui-windows]
+   Źródło instalacji: VS 17.14.37614.0
+   Wersja manifestu:    10.0.0/10.0.100
+   Ścieżka manifestu:       C:\Program Files\dotnet\sdk-manifests\10.0.100\microsoft.net.sdk.maui\10.0.0\WorkloadManifest.json
+   Typ instalacji:              Msi
+
+ [maccatalyst]
+   Źródło instalacji: VS 17.14.37614.0
+   Wersja manifestu:    26.0.11017/10.0.100
+   Ścieżka manifestu:       C:\Program Files\dotnet\sdk-manifests\10.0.100\microsoft.net.sdk.maccatalyst\26.0.11017\WorkloadManifest.json
+   Typ instalacji:              Msi
+
+ [ios]
+   Źródło instalacji: VS 17.14.37614.0
+   Wersja manifestu:    26.0.11017/10.0.100
+   Ścieżka manifestu:       C:\Program Files\dotnet\sdk-manifests\10.0.100\microsoft.net.sdk.ios\26.0.11017\WorkloadManifest.json
+   Typ instalacji:              Msi
+
+ [android]
+   Źródło instalacji: VS 17.14.37614.0
+   Wersja manifestu:    36.1.2/10.0.100
+   Ścieżka manifestu:       C:\Program Files\dotnet\sdk-manifests\10.0.100\microsoft.net.sdk.android\36.1.2\WorkloadManifest.json
+   Typ instalacji:              Msi
+
+Skonfigurowano używanie workload sets podczas instalowania nowych manifestów.
+Nie zainstalowano żadnych zestawów obciążeń. Uruchom „dotnet workload restore”, aby zainstalować zestaw obciążeń.
+
+Host:
+  Version:      10.0.12
+  Architecture: x64
+  Commit:       95017c711e
+
+.NET SDKs installed:
+  9.0.203 [C:\Program Files\dotnet\sdk]
+  9.0.317 [C:\Program Files\dotnet\sdk]
+  10.0.401 [C:\Program Files\dotnet\sdk]
+
+.NET runtimes installed:
+  Microsoft.AspNetCore.App 8.0.30 [C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App]
+  Microsoft.AspNetCore.App 9.0.4 [C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App]
+  Microsoft.AspNetCore.App 9.0.19 [C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App]
+  Microsoft.AspNetCore.App 10.0.12 [C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App]
+  Microsoft.NETCore.App 6.0.16 [C:\Program Files\dotnet\shared\Microsoft.NETCore.App]
+  Microsoft.NETCore.App 8.0.14 [C:\Program Files\dotnet\shared\Microsoft.NETCore.App]
+  Microsoft.NETCore.App 8.0.30 [C:\Program Files\dotnet\shared\Microsoft.NETCore.App]
+  Microsoft.NETCore.App 9.0.4 [C:\Program Files\dotnet\shared\Microsoft.NETCore.App]
+  Microsoft.NETCore.App 9.0.6 [C:\Program Files\dotnet\shared\Microsoft.NETCore.App]
+  Microsoft.NETCore.App 9.0.19 [C:\Program Files\dotnet\shared\Microsoft.NETCore.App]
+  Microsoft.NETCore.App 10.0.10 [C:\Program Files\dotnet\shared\Microsoft.NETCore.App]
+  Microsoft.NETCore.App 10.0.12 [C:\Program Files\dotnet\shared\Microsoft.NETCore.App]
+  Microsoft.WindowsDesktop.App 8.0.14 [C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App]
+  Microsoft.WindowsDesktop.App 8.0.30 [C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App]
+  Microsoft.WindowsDesktop.App 9.0.4 [C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App]
+  Microsoft.WindowsDesktop.App 9.0.6 [C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App]
+  Microsoft.WindowsDesktop.App 9.0.19 [C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App]
+  Microsoft.WindowsDesktop.App 10.0.10 [C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App]
+  Microsoft.WindowsDesktop.App 10.0.12 [C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App]
+
+Other architectures found:
+  x86   [C:\Program Files (x86)\dotnet]
+    registered at [HKLM\SOFTWARE\dotnet\Setup\InstalledVersions\x86\InstallLocation]
+
+Environment variables:
+  Not set
+
+global.json file:
+  Not found
+
+Learn more:
+  https://aka.ms/dotnet/info
+
+Download .NET:
+  https://aka.ms/dotnet/download
+
